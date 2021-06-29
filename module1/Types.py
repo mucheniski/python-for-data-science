@@ -1,6 +1,6 @@
-int typeInt = 11
-float typeFloat = 21.123
-str typeString = "Is this a String"
+typeInt = int(11)
+typeFloat = float(21.123)
+typeString = str("Is this a String")
 
 # CAST
 # float can be convert to int
