@@ -43,4 +43,8 @@ Issubset
 ![](/img/issubset.png)
 
 
-Continue in Module2 Dictionaries (2:24)
+## Dictionaries
+![](/img/dictionaries1.png)
+
+
+Continue in Module 3
