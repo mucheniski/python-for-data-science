@@ -30,4 +30,7 @@ Writing files with open
 Loading data with Pandas  
 Working with and Saving data with Pandas  
 
-Continue in Learning Objectives
+## Tuples
+![](img/TuplesTree.png)  
+
+Continue in Module2 Lab Lists and Tuples
