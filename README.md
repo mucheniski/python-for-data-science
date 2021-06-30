@@ -33,4 +33,14 @@ Working with and Saving data with Pandas
 ## Tuples
 ![](img/TuplesTree.png)  
 
-Continue in Module2 Lab Lists and Tuples
+## Sets  
+Insersection between Sets
+![](img/IntersectionSet1.png)  
+![](img/IntersectionSet2.png)  
+![](img/IntersectionSet3.png)  
+
+Issubset
+![](img/issubset.png)
+
+
+Continue in Module2 Dictionaries (2:24)
