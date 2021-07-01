@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Loops (6:40)
+Continue in Functions (13:28)
