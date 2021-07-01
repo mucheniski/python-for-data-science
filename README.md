@@ -47,4 +47,11 @@ Issubset
 ![](/img/dictionaries1.png)
 
 
-Continue in Module 3
+## Logic Operators
+Or
+![](/img/OperatorOr.png)  
+
+And
+![](/img/OperatorAnd.png)  
+
+Continue in Loops (6:40)

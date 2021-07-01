@@ -16,7 +16,7 @@ print(a == 6)
 age = 17
 if (age > 18):
     print("you can enter")
-elif (age == 18)
+elif (age == 18):
     print("Goo see Pink Floyd")
 else:
     print("goo see Meat Loaf")
