@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Functions (13:28)
+Continue in Objects and Classes (10:47)
