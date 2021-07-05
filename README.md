@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Objects and Classes (10:47)
+Continue in Reading files with open (3:39)
