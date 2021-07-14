@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Reading files with open (3:39)
+Continue in Loading data with pandas (4:07)
