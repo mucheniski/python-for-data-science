@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Loading data with pandas (4:07)
+Continue in Working with and Saving data (2:02)
