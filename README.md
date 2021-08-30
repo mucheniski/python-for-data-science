@@ -54,4 +54,4 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Working with and Saving data (2:02)
+Continue in Lab- Loading Data and Viewing Data with Watson Studio
