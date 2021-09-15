@@ -54,4 +54,8 @@ Or
 And
 ![](/img/OperatorAnd.png)  
 
-Continue in Lab- Loading Data and Viewing Data with Watson Studio
+## Rest APIs
+Meaning of REST  
+![](/img/RESTMeaning.png)
+
+Continue in Simple APIs Part 2
